@@ -60,6 +60,6 @@ Feel free to fork this repository and submit pull requests to contribute any imp
    -git commit -am 'Add new feature or fix issue'
 
 5. Push the changes to your fork:
-   git push origin feature-branch
+   -git push origin feature-branch
    
 Submit a pull request from your fork to the main repository.
