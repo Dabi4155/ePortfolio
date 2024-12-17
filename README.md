@@ -18,9 +18,6 @@ Git for version control.
 
 GitHub for hosting the repository.
 
-Getting Started
-To replicate or contribute to this ePortfolio, follow these steps:
-
 ## Getting Started
 
 To replicate or contribute to this ePortfolio, follow these steps:
