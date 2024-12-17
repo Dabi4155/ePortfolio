@@ -9,10 +9,15 @@ Welcome to my ePortfolio! This website showcases my academic journey, projects, 
 This ePortfolio is built with the following technologies:
 
 HTML for the structure of the website.
+
 CSS for styling and layout.
+
 JavaScript for interactivity and functionality.
+
 Git for version control.
+
 GitHub for hosting the repository.
+
 Getting Started
 To replicate or contribute to this ePortfolio, follow these steps:
 
