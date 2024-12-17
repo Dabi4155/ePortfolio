@@ -29,14 +29,16 @@ To replicate or contribute to this ePortfolio, follow these steps:
 ### Clone the Repository
 To get started, clone this repository to your local machine:
 
-git clone https://github.com/your-username/eportfolio.git
+   git clone https://github.com/your-username/eportfolio.git
 
 ### Running Locally
 After cloning the repository, navigate to the project folder:
-cd eportfolio
+
+   cd eportfolio
 
 Open the HTML.html file in your browser:
-open HTML.html
+
+   open HTML.html
 
 or
 
@@ -49,14 +51,15 @@ Feel free to fork this repository and submit pull requests to contribute any imp
 1. Fork the repository by clicking the "Fork" button at the top of the page.
    
 2. Clone your forked repository:
-git clone https://github.com/your-username/eportfolio.git
+   git clone https://github.com/your-username/eportfolio.git
 
 3. Create a new branch for your changes:
-git checkout -b feature-branch
+   git checkout -b feature-branch
 
 4. Make your changes and commit:
-git commit -am 'Add new feature or fix issue'
+   git commit -am 'Add new feature or fix issue'
 
 5. Push the changes to your fork:
-git push origin feature-branch
+   git push origin feature-branch
+   
 Submit a pull request from your fork to the main repository.
